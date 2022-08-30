@@ -1,1 +1,1 @@
-# AndroidJetpackCompose_GoogleBasicsCodelab
+# AndroidJetpackCompose_BasicsCodelab
